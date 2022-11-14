@@ -3,6 +3,11 @@
 
 https://www.drivendata.org/competitions/66/flu-shot-learning/page/210/
 
+Bull Peter, Slavitt Isaac, Lipstein Greg. 2016. Harnessing the Power of the Crowd to Increase Capacity for Data 
+    Science in the Social Sector. Presented at 2016 ICML Workshop on #Data4Good: Machine Learning in Social 
+    Good Applications, New York, NY. https://doi.org/10.48550/arXiv.1606.07781
+
+
 Workflow Outline for Modeling:
 
 Data: DHHS 2009 Flu Vaccine Survey
