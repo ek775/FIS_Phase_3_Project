@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+#final model was 500MB - adding to gitignore due to tracking issue and uploading compressed ,pkl file
+Final_Model.pkl
